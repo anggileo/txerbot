@@ -1,0 +1,2 @@
+git commit -m "tanggal berapa"
+git push -u origin master
